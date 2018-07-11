@@ -1,1 +1,2 @@
-# jQuery-Car-Race
+# jQuery-Race-CAR-Game
+jQuery Game
